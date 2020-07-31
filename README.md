@@ -36,8 +36,6 @@ Once complete tally up the time and determine how long the project will take to 
 
 MVP 
 
-Hamburger menu
-
 Frontend connected to Backend
 
 Allow user to add favorite insults
@@ -46,7 +44,9 @@ Save their choices in list on seperate page
 
 A button for new insult
 
-A button to save insult 
+A button to save insults
+
+A button to lead to the library of insults
 
 PostMVP
 
