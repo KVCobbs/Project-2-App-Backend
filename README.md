@@ -17,8 +17,7 @@ You are responsible for scheduling time with your squad to seek approval for eac
 Project Description 
 My project is an insult library. The app will give you insults to save and use whenever you need. You can add your own special insults and even delete insults you dont think are good.
 
-Google Sheet
-Include link to your google sheet here. Here is the sample Suresh had used in class
+
 
 Wireframes
 
@@ -34,7 +33,6 @@ Now create a separate list starting with A and assign it one of the features. Co
 
 Once complete tally up the time and determine how long the project will take to complete. Now break those features into MVP and PostMVP so you can guarantee you will have a fully functioning project to demo.
 
-
 MVP (examples)
 Hamburger menu
 Frontend connected to Backend
@@ -46,35 +44,25 @@ A button to save insult
 PostMVP
 Slider for a clean insult version
 
-
 #### MVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Hamburger | H | 1hr | 1.5hr | -hr|
-| Insult generator | H | 3hr | -hr | -hr|
-| New insult button | H | H | -hr | -hr|
-| Adding Form | H | 1.5hr| -hr | -hr |
-| Other sections and flex| M | 4hr | 2hr | -hr|
-| Working with API | H | 3hrs| 2hr | -hr |
-| Responsive | H | 3hr | -hr | -hr|
-| Social Media Icons | L | 1hr | -hr | -hr|
-| Total | H | 15.5hrs| -hrs | -hrs |
+| Hamburger menu | H | 1hr | 1.5hr | -hr|
+| Frontend/Backend connection | H | 3hr | -hr | -hr|
+| Save insult function| H | H | -hr | -hr|
+| Seperate library page | H | 1.5hr| -hr | -hr |
+| button to randomize new insult| M | 4hr | 2hr | -hr|
+
+
 
 #### PostMVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Project Hover | L | 3hr | -hr | -hr|
-| Banner letters wiggle | L | 1hr | -hr | -hr|
-| Interactive Banner | M | 4hr | -hr | -hr|
-| Materialize | H | 4hr | -hr | -hr|
-| Bootstrap | H | 4hr | -hr | -hr|
-| Make own icon | L | 4hr | -hr | -hr|
-| Total | H | 20hrs| -hrs | -hrs |
-
+| Clean version slider | L | 3hr | -hr | -hr|
 
 
 Additional Libraries
-Use this section to list all supporting libraries and thier role in the project.
+N/A
 
 Code Snippet
 Use this section to include a brief code snippet of functionality that you are proud of an a brief description
