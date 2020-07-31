@@ -40,6 +40,9 @@ A button to save insults
 
 A button to lead to the library of insults
 
+log in function to save insults
+
+
 PostMVP
 
 Slider for a clean insult version
