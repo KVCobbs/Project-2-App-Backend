@@ -57,8 +57,8 @@ Slider for a clean insult version
 | --- | :---: |  :---: | :---: | :---: |
 | Hamburger menu | H | 5hr | -hr | -hr|
 | Frontend/Backend connection | H | 8hr | -hr | -hr|
-| Save insult function| H | H | 8hr | -hr|
-| Seperate library page | H | 8hr| -hr | -hr |
+| Save insult function| H | -hr | 8hr | -hr|
+| Seperate library page | M | 8hr| -hr | -hr |
 | button to randomize new insult| M | 6hr | -hr | -hr|
 
 
