@@ -22,7 +22,8 @@ My project is an insult library. The app will give you insults to save and use w
 
 
 
-Time/Priority Matrix
+Time/Priority Matrix:
+https://docs.google.com/document/d/1g1Dkl219LceOq23c6gRdRyHKNW-CoQ2rGLBQwcJtRs4/edit?usp=sharing
 
 
 MVP 
