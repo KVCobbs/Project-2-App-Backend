@@ -7,14 +7,15 @@ You are responsible for scheduling time with your squad to seek approval for eac
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Incomplete
-|Day 1| Wireframes / Priority Matrix / Timeline `backend` and `frontend`| Incomplete
+|Day 1| Project Description | complete
+|Day 1| Wireframes / Priority Matrix / Timeline `backend` and `frontend`| complete
 |Day 2| Working RestAPI | Incomplete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Day 4| MVP & Bug Fixes | Incomplete
 |Day 5| Final Touches and Present | Incomplete
 
-Project Description 
+Project Description:
+
 My project is an insult library. The app will give you insults to save and use whenever you need. You can add your own special insults and even delete insults you dont think are good.
 
 
@@ -33,32 +34,39 @@ Now create a separate list starting with A and assign it one of the features. Co
 
 Once complete tally up the time and determine how long the project will take to complete. Now break those features into MVP and PostMVP so you can guarantee you will have a fully functioning project to demo.
 
-MVP (examples)
+MVP 
+
 Hamburger menu
+
 Frontend connected to Backend
+
 Allow user to add favorite insults
+
 Save their choices in list on seperate page
+
 A button for new insult
+
 A button to save insult 
 
 PostMVP
+
 Slider for a clean insult version
 
 #### MVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Hamburger menu | H | 1hr | 1.5hr | -hr|
-| Frontend/Backend connection | H | 3hr | -hr | -hr|
-| Save insult function| H | H | -hr | -hr|
-| Seperate library page | H | 1.5hr| -hr | -hr |
-| button to randomize new insult| M | 4hr | 2hr | -hr|
+| Hamburger menu | H | 5hr | -hr | -hr|
+| Frontend/Backend connection | H | 8hr | -hr | -hr|
+| Save insult function| H | H | 8hr | -hr|
+| Seperate library page | H | 8hr| -hr | -hr |
+| button to randomize new insult| M | 6hr | -hr | -hr|
 
 
 
 #### PostMVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Clean version slider | L | 3hr | -hr | -hr|
+| Clean version slider | L | 6hr | -hr | -hr|
 
 
 Additional Libraries
