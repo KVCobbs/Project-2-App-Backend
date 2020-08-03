@@ -1,9 +1,10 @@
 const mongoose = require('mongoose') 
-const {Schema,model} = require('mongoose')
+//const {Schema,model} = require('mongoose')
+const {Schema,model} = mongoose
 
 const firstInsultSchema = new Schema (
     {
-        name: {type:String},
+        name: {type:String,},
     }
 )
 

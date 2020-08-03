@@ -1,10 +1,19 @@
 
-const{index,seed}= require('../controllers/Insults.js')
-const {Router} = ('express')
-const router = Router()
+const express = require('express')
+const InsultsRouter = express.Router()
+const{index,create,update,destroy,} = require('../Controllers/Insults.js')
 
-router.get("/",index)
+//all insults
+InsultsRouter.get("/",index);
 
-router.get('/seed',seed)
+//create new insults
+InsultsRouter.post("/",create);
 
-module.exports = router
+//update an insult
+InsultsRouter.put("/:id",update);
+
+//destroy an insult
+InsultsRouter.put("/:id",destroy);
+
+
+module.exports = InsultsRouter
