@@ -29,7 +29,9 @@ const Insults = require("../Models/Insults.js")
 const index = async (request,response) => {
     try {
     const allInsults = await Insults.find({})
+    console.log(allInsults);
     response.status(200).json(allInsults)
+    
     }
     catch(error){
         response.status(400).send(error)
