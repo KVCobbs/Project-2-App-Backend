@@ -8,7 +8,7 @@ const app = express(); //creates express application object
 const morgan = require("morgan"); //Brings in Morgan Library
 const cors = require("cors"); //Brings in CORS library
 const mongoose = require("mongoose"); //bring in mongoose library
-const InsultsRouter = require('./Routes/Insults.js') // I got rid of the seed so this is all throw away 
+const InsultsRouter = require('./Routes/Insults.js') 
 
 
 //GlOBAL VARIABLES
