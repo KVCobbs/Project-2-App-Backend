@@ -38,7 +38,6 @@ const index = async (request,response) => {
     }
 }
 
-
 //Create - Make a new gif
 const create = async (request, response ) => {
     try {

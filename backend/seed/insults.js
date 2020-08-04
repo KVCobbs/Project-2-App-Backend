@@ -4,34 +4,44 @@ const Insults = require('../Models/Insults.js')
 
 //insults to seed
 const insultsSeed = [
-    {name:"Suck-bottle",},
-    {name:"Tattletale",},
-    {name:"Earbanger",},
-    {name:"Quakebuttock"},
-    {name:"Fart-catcher"},
-    {name:"Pricklouse"},
-    {name:"Go fly a kite"},
-    {name:"Your code is wet af my dude"},
-    {name:"Donkey kisser"},
-    {name:"N00B"},
-    {name:"Nerf herder"}, //Star wars reference
-    {name:"Caliginous junk"}, //Wizard of oz reference
-    {name:"Your mother was a hamster"}, //monthy python
-    {name:"Your father smelt of elderberries"},
-    {name:"Well if it isn't fat stinking billygoat billyboy"}, //clockwork orange
-    {name:"You're a sad strange little man and you have my pity"},
-    {name:"Shut your festering gob you tit!"},
-    {name:"Smeg head"}, 
-    {name:"You fart factory"},
-    {name:"Slug-slimed sack of rat guts in cat vomit"},
-    {name:"you spam email"},
-    {name:"poopie-butt"},
-    {name:"cold bowl of soup"},
-    {name:"wobbly table"},
-    {name:"you're a wet sock"},
-    {name:"you lint licker"},
-    {name:"you expired coupon"},
-    {name:"squeaky grocery cart"},
+    {name:"Suck-bottle.",},
+    {name:"Tattletale.",},
+    {name:"Earbanger.",},
+    {name:"Quakebuttock."},
+    {name:"Fart-catcher."},
+    {name:"Pricklouse."},
+    {name:"Go fly a kite."},
+    {name:"Your code is wet af my dude."},
+    {name:"Donkey kisser."},
+    {name:"N00B."},
+    {name:"Nerf herder."}, //Star wars reference
+    {name:"Caliginous junk."}, //Wizard of oz reference
+    {name:"Your mother was a hamster."}, //monthy python
+    {name:"Your father smelt of elderberries."},
+    {name:"Well if it isn't fat stinking billygoat billyboy."}, //clockwork orange
+    {name:"You're a sad strange little man and you have my pity."},
+    {name:"Shut your festering gob you tit!."},
+    {name:"Smeg head."}, 
+    {name:"You fart factory."},
+    {name:"Slug-slimed sack of rat guts in cat vomit."},
+    {name:"You spam email."},
+    {name:"Poopie-butt."},
+    {name:"Cold bowl of soup."},
+    {name:"Wobbly table."},
+    {name:"You're a wet sock."},
+    {name:"You lint licker."},
+    {name:"You expired coupon."},
+    {name:"squeaky grocery cart."},
+    {name:"You're Ugly."},
+    {name:"Pie-eating Pirate."},
+    {name:"Monkey Face."},
+    {name:"Crotch Hammer."},
+    {name:"Why don't you slip into something more comfortable? Like a coma."},
+    {name:"You'll never be the man your mother is."},
+    {name:"You're so ugly hello kitty said goodbye to you."},
+    {name:"We all sprang from apes but you didnt spring far enough."},
+    {name:"You're so ugly you make an onion cry."},
+    {name:"You're so fat the only letters of the alphabet you know are KFC."},
 ];
 
 //insert all insults from array 
