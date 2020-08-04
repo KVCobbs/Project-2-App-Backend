@@ -42,6 +42,23 @@ const insultsSeed = [
     {name:"We all sprang from apes but you didnt spring far enough."},
     {name:"You're so ugly you make an onion cry."},
     {name:"You're so fat the only letters of the alphabet you know are KFC."},
+    {name:"You're a poop goblin."},
+    {name:"You sorry excuse for an intolerable ass pastry."},
+    {name:"You're an illiterate dump truck."},
+    {name:"You think you're better than me?"},
+    {name:"You despicable egg."},
+    {name:"You rotten monkey."},
+    {name:"You're the salt of the earth."},
+    {name:"If your life had a face, I would punch it."},
+    {name:"You belong in the shed. With the other tools."},
+    {name:"I'll use small words so that you'll be sure to understand you warthhog-faced bafoon!"},
+    {name:"You're too stupid to insult."},
+    {name:"Cancel my subscriptions.I'm over your issues."},
+    {name:"Dork."},
+    {name:"Geek."},
+    {name:"Waste of cells."},
+    {name:"You're dumber than a bag of hammers."},
+    {name:"pinhead."}
 ];
 
 //insert all insults from array 
