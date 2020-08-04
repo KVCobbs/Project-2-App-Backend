@@ -10,7 +10,7 @@ You are responsible for scheduling time with your squad to seek approval for eac
 |Day 1| Project Description | complete
 |Day 1| Wireframes / Priority Matrix / Timeline `backend` and `frontend`| complete
 |Day 2| Working RestAPI | Complete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
+|Day 3| Core Application Structure (HTML, CSS, etc.) | Complete
 |Day 4| MVP & Bug Fixes | Incomplete
 |Day 5| Final Touches and Present | Incomplete
 
@@ -50,7 +50,7 @@ Slider for a clean insult version
 #### MVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Frontend/Backend connection | H | 8hr | -hr | -hr|
+| Frontend/Backend connection | H | 8hr | 4hr | -hr|
 | Save insult function| H | 8hr | -hr | -hr|
 | button to randomize new insult| M | 6hr | -hr | -hr|
 | Delete insult function | M | 6hr | -hr | -hr|
