@@ -124,7 +124,6 @@ Insults.insertMany(insultsSeed,
         }
         db.close()
     })
-
 module.exports = Insults
 
 /*
