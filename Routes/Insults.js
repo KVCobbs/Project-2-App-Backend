@@ -17,3 +17,4 @@ InsultsRouter.put("/:id",destroy);
 
 
 module.exports = InsultsRouter
+

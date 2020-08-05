@@ -12,3 +12,4 @@ const signInSchema = new Schema ({
 
 const SignIn = model('signin', signInSchema)
 module.exports = signIn
+

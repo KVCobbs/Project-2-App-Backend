@@ -18,3 +18,4 @@ const secondInsultSchema = new Schema ({
 
 const Insult = model('insult', firstInsultSchema)
 module.exports = Insult
+

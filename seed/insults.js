@@ -136,4 +136,3 @@ seeding a database is a process in which an inital(original)set of sata is being
 I just wanted to add some original words to already be hosted besides the user adding their own. 
 */
 
-something
