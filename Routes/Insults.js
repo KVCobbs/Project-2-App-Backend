@@ -13,7 +13,7 @@ InsultsRouter.post("/",create);
 InsultsRouter.put("/:id",update);
 
 //destroy an insult
-InsultsRouter.put("/:id",destroy);
+InsultsRouter.delete("/:id",destroy);
 
 
 module.exports = InsultsRouter
