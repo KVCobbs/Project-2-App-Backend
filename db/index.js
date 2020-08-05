@@ -16,3 +16,5 @@ db.on('connected', () => console.log("Yes we're connected"));
 db.on("disconnected", () => console.log("Nope no connection. "));
 
 module.exports = db 
+
+something
