@@ -9,7 +9,7 @@ const morgan = require("morgan"); //Brings in Morgan Library
 const cors = require("cors"); //Brings in CORS library
 const mongoose = require("mongoose"); //bring in mongoose library
 const InsultsRouter = require('./Routes/Insults.js') //This is my router
-
+const signInRouter = require('./Routes/Signin.js')
 
 //GlOBAL VARIABLES
 
@@ -68,6 +68,7 @@ app.use(express.static("public")); //Allows static serving of files from public 
 
 //These handle sending responses to server requests for spefic endpoints
 app.use('/Insults', InsultsRouter)
+app.use('/Signin',signInRouter)
 
 
 //ROOT ROUTE (FOR TESTING)

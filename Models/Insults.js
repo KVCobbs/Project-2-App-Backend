@@ -4,7 +4,7 @@ const {Schema,model} = mongoose
 
 const firstInsultSchema = new Schema (
     {
-        name: {type:String,},
+        name: String,
     }
 )
 

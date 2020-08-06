@@ -6,10 +6,10 @@ const mongoose = require('mongoose')
 const{Schema,model} = require('mongoose')
 
 const signInSchema = new Schema ({
-    Username:{type:String},
-    Password:{type:Number}
+    name: String,
+    insult:{type:Schema.Types.ObjectId,ref:'insults'}
 })
 
-const SignIn = model('signin', signInSchema)
+const signIn = model('signin', signInSchema)
 module.exports = signIn
 
