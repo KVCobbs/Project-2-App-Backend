@@ -3,7 +3,7 @@
 // a whole new seperate page
 
 const mongoose = require('mongoose')
-const{Schema,model} = require('mongoose')
+const{Schema,model} = mongoose
 
 const signInSchema = new Schema ({
     name: String,

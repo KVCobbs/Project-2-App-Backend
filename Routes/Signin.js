@@ -1,7 +1,7 @@
 
 const express = require('express')
 const signInRouter = express.Router()
-const{index,create,update,destroy,} = require('../Controllers/Signin.js')
+const{index,create} = require('../Controllers/Signin.js')
 
 //all insults
 signInRouter.get("/",index);

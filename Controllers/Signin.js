@@ -1,12 +1,13 @@
-const Signin = require("../Models/Signin.js")
+const db = require("../db/")
+const Signins = require("../Models/Signin.js")
 
 
 //Index which will get all insults
 const index = async (request,response) => {
     try {
-    const allsignin = await signin.find({})
-    console.log(allSignin);
-    response.status(200).json(allSignin)
+    const allsignIn = await Signins.find({})
+    console.log(allsignIn);
+    response.status(200).json(allsignIn)
     
     }
     catch(error){
@@ -17,8 +18,8 @@ const index = async (request,response) => {
 //Create - Make a new insult
 const create = async (request, response ) => {
     try {
-        const createsignin = await signin.create(request.body)
-        response.status(200).json(newSignin)
+        const createsignIn = await Signins.create(request.body)
+        response.status(200).json(createsignIn)
     }
     catch(error){
         response.status(400).send(error)
